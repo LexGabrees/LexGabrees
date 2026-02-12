@@ -21,13 +21,10 @@ By blending Tech. and Digital Marketing, I can deliver full-stack, data-driven s
 
 I can help you with 👇
 
-
 - Organic Visibility - Semantic SEO / AIO 
 - Paid Advertising  - SEA - Google Ads / MS Ads / LinkedIn Ads / Meta Ads / Native
 - AI-Powered Workflows and Automation  - n8n / APIs / AI Agents
 - Analytics and tracking - GA4 / GTM / Server Side Tagging and Tracking
 - Privacy-Focused Martech (on-premises)  - Mautic, Matomo, n8n, Server Side Tagging (sGTM)
 
-For questions about how I can help improve your digital marketing results, feel free to contact me through a DM or website: [lexgabrees.com](https://lexgabrees.com)
-
-
+For questions about how I can help improve your digital marketing results, feel free to contact me via DM or on my website: [lexgabrees.com](https://lexgabrees.com). You can also get in touch through [LinkedIn](https://linkedin.com/in/lexgabrees)
