@@ -21,7 +21,7 @@ By blending Tech. and Digital Marketing, I can deliver full-stack, data-driven s
 
 I can help you with 👇
 
-- Organic Visibility - Semantic SEO / AIO 
+- Organic Visibility - Semantic SEO / AI Search visibility 
 - Paid Advertising  - SEA - Google Ads / MS Ads / LinkedIn Ads / Meta Ads / Native
 - AI-Powered Workflows and Automation  - n8n / APIs / AI Agents
 - Analytics and tracking - GA4 / GTM / Server Side Tagging and Tracking
